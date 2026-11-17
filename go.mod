@@ -4,14 +4,14 @@ go 1.27.2
 
 require (
 	cel.dev/cel-go v0.33.2
-	github.com/cosi-project/runtime v1.16.5
+	github.com/cosi-project/runtime v1.17.1
 	github.com/google/jsonschema-go v0.4.3
 	github.com/modelcontextprotocol/go-sdk v1.8.0
 	github.com/siderolabs/image-factory v1.8.0
 	github.com/siderolabs/omni/client v1.13.3
-	github.com/siderolabs/talos/pkg/machinery v1.15.0-alpha.2.0.20261028085643-3ba3d6a5e784
+	github.com/siderolabs/talos/pkg/machinery v1.15.0-beta.0
 	github.com/urfave/cli/v3 v3.14.0
-	go.yaml.in/yaml/v4 v4.0.0-rc.6.0.20260809190231-643e93b9c9be
+	go.yaml.in/yaml/v4 v4.0.0
 	google.golang.org/protobuf v1.36.12
 )
 
@@ -80,7 +80,7 @@ require (
 	github.com/sasha-s/go-deadlock v0.3.9 // indirect
 	github.com/segmentio/asm v1.1.3 // indirect
 	github.com/segmentio/encoding v0.5.4 // indirect
-	github.com/siderolabs/crypto v0.6.5 // indirect
+	github.com/siderolabs/crypto v0.6.6 // indirect
 	github.com/siderolabs/gen v0.8.8 // indirect
 	github.com/siderolabs/go-api-signature v0.4.0 // indirect
 	github.com/siderolabs/go-pointer v1.0.1 // indirect
@@ -102,7 +102,7 @@ require (
 	go.yaml.in/yaml/v3 v3.0.5 // indirect
 	golang.org/x/crypto v0.58.0 // indirect
 	golang.org/x/exp v0.0.0-20261014143641-f0251eb4aa3e // indirect
-	golang.org/x/net v0.61.0 // indirect
+	golang.org/x/net v0.62.0 // indirect
 	golang.org/x/oauth2 v0.37.0 // indirect
 	golang.org/x/sync v0.24.0 // indirect
 	golang.org/x/sys v0.49.0 // indirect
